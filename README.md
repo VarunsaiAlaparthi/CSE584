@@ -1,3 +1,3 @@
-###Homeworks and Projects for CSE 584
+# Homeworks and Projects for CSE 584
 
 Author: Varunsai Alaparthi.
